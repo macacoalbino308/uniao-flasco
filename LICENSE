@@ -1,21 +1,86 @@
-MIT License
+<!DOCTYPE html>
+<html lang="pt-br">
 
-Copyright (c) 2025 macacoalbino308
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" ,
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css" />
+    <title> Máquinas pesadas </title>
+</head>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<body>
+    <header class="container text-center">
+        <img src="img/img 1.jpg" />
+        <p class="lead"> Qual a importância das maquina pesadas na produção agrícola? </p>
+        <h1> Elas diminuem o tempo gasto com grandes operações agrícolas, as máquinas pesadas permitem um maior controle e precisão no uso de defensivos</p>
+        <h4>imagens e assuntos sobre a agronomia</h4>
+        <div>
+            <p class="badge text-bg-secundary">Ultraviolence </p>
+            <p class="badge text-bg-secundary">Honeymoon </p>
+            <p class="badge text-bg-secundary">West Coast</p>
+            <p class="badge text-bg-secundary">Did You Know That There's a Tunnel Under Ocean Blvd</p>
+            <p class="badge text-bg-secundary">Norman Fucking Rockwell</p>
+            <p class="badge text-bg-secundary">Born To Die</p>
+        </div>
+    </header>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    <main class="container mt-5">
+        <h2>Ultraviolence</h2>
+        <div class="row">
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/img 1.jpg" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title"> coisas importantes que a agronomia faz</h5>
+                        <p class="card-text"> Na agronomia se inclui a importância do estudo do solo, o uso de tecnologias avançadas,
+                             a busca por práticas agrícolas sustentáveis, e a contribuição para a segurança alimentar
+                            
+                .</p>
+                        <button type="button" class="btn btn-secondary">Ver mais</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/11.jpeg" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="Tratores"></h5>
+                        <p class="card-text">Eles permitem práticas como o plantio direto, que reduz a erosão do solo e melhora a retenção de água, promovendo uma 
+                            agricultura mais sustentável. Com os tratores, o controle de qualidade na produção agrícola é aprimorado
+
+                    
+                        </p>
+
+                        <button type="button" class="btn btn-secondary"> Ver mais</button>
+
+
+
+
+
+                        <div>
+                            <p>Ultraviolence</p>
+                            <p>O álbum Ultraviolence da cantora Lana Del Rey aborda as seguintes músicas: Ultraviolence,
+                                Sad Girl, Weast
+                                Coast, Pretty When You Cry, essas são as músicas mais escutadas do álbum.</p>
+                            </p>
+
+                        </div>
+
+
+                        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+                            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+                            crossorigin="anonymous">
+                            </script>
+
+</body>
+
+</html>
+
+
+
+</header>
